@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Web development with Angular/Springboot
+- 🔭 I’m currently working on Web development with Angular+Springboot+MySQL
 - 🌱 I’m currently learning Formal Specification Methods/React/Next.js
 - 💬 Ask me about Flutter/Native mobile development
 - 📫 How to reach me: jeffpzfyf82@gmail.com

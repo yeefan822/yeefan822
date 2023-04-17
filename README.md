@@ -15,12 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart         10 mins         ███████░░░░░░░░░░░░░░░░░░   28.02 %
-XML          9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-YAML         8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Groovy       6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-Gradle       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Properties   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

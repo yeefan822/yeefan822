@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart         1 hr 59 mins    █████████████████████████   99.96 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
